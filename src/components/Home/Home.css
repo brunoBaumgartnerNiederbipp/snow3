@@ -1,0 +1,94 @@
+p {
+    color: #ffffff;
+    font-size: large;
+    font-weight: 900;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .App-Background {
+    position: fixed;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top:0;
+    pointer-events: none;
+  }
+
+  .App-BackgroundMobile{
+    display: none;
+  }
+  
+  .App-header {
+    background-color: transparent;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-text {
+    z-index: 2;
+    position: relative;
+    top: 30%;
+    font-size: 1.5em;
+    color: #61dafb;
+    background-color: transparent;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .App-intro{
+    width: 40%;
+    margin: 0 auto;
+  }
+  
+  /* Path: src\index.css */
+  
+  html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .App-contact{
+    z-index: 2;
+    position: relative;
+    top: 50%;
+    font-size: 1.5em;
+    color: #61dafb;
+  }
+  
+
+  @media  screen and (max-width: 566px) {
+
+    .App-Background{
+      display: none;
+    }
+    
+    .App-BackgroundMobile{
+      display: block;
+      position: absolute;
+      z-index: -1;
+      margin: 0;
+      padding: 0;
+    }
+
+    .App-intro{
+      width: 80%;
+    }
+  }
+  
