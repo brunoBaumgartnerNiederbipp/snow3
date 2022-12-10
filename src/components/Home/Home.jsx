@@ -20,7 +20,7 @@ function Home() {
           </p>
           <div>  
             <p>Ich bin professioneller Webdesigner in Wordpress5 und ReactJS.
-            Ich erstelle moderne und responsive Webseiten für Ihr Unternehmen.</p>
+          </p>
           </div>
           </div>
         </header>
