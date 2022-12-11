@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/snow3/static/css/main.5873660d.css",
-    "main.js": "/snow3/static/js/main.5df0f4b6.js",
-    "static/media/Weihnachten.png": "/snow3/static/media/Weihnachten.9e1b2dac8a331ccbba60.png",
-    "static/media/WeihnachtenMobile.png": "/snow3/static/media/WeihnachtenMobile.6135b52a235a4c7aba1c.png",
-    "static/media/logo.png": "/snow3/static/media/logo.2de8482c1fa14d669806.png",
-    "index.html": "/snow3/index.html",
-    "main.5873660d.css.map": "/snow3/static/css/main.5873660d.css.map",
-    "main.5df0f4b6.js.map": "/snow3/static/js/main.5df0f4b6.js.map"
+    "main.css": "/myiq.ch/static/css/main.5873660d.css",
+    "main.js": "/myiq.ch/static/js/main.44a44fc4.js",
+    "static/media/Weihnachten.png": "/myiq.ch/static/media/Weihnachten.9e1b2dac8a331ccbba60.png",
+    "static/media/WeihnachtenMobile.png": "/myiq.ch/static/media/WeihnachtenMobile.6135b52a235a4c7aba1c.png",
+    "static/media/logo.png": "/myiq.ch/static/media/logo.2de8482c1fa14d669806.png",
+    "index.html": "/myiq.ch/index.html",
+    "main.5873660d.css.map": "/myiq.ch/static/css/main.5873660d.css.map",
+    "main.44a44fc4.js.map": "/myiq.ch/static/js/main.44a44fc4.js.map"
   },
   "entrypoints": [
     "static/css/main.5873660d.css",
-    "static/js/main.5df0f4b6.js"
+    "static/js/main.44a44fc4.js"
   ]
 }
